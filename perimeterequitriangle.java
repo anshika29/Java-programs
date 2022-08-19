@@ -5,7 +5,7 @@ public class perimeterequitriangle {
             System.out.println("Enter the side");
             double r = sc.nextDouble();
             double p = 3 * r;
-            System.out.println("Area of circle : " + p);
+            System.out.println("Perimeter of equilateral triangle : " + p);
         }   
     }
 }
